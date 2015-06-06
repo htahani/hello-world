@@ -1,2 +1,2 @@
 # hello-world
-hello worl example of github
+hello world example of github
